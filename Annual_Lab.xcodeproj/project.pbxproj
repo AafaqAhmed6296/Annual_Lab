@@ -25,6 +25,9 @@
 /* Begin PBXFileReference section */
 		8634B29124E83A1200AF7AE6 /* Annual_Lab */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Annual_Lab; sourceTree = BUILT_PRODUCTS_DIR; };
 		8634B29424E83A1200AF7AE6 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		8634B29B24E85E6700AF7AE6 /* Product.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Product.h; sourceTree = "<group>"; };
+		8634B29C24E85EBB00AF7AE6 /* Food.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Food.h; sourceTree = "<group>"; };
+		8634B29D24E85ED700AF7AE6 /* Clothes.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Clothes.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +61,9 @@
 			isa = PBXGroup;
 			children = (
 				8634B29424E83A1200AF7AE6 /* main.cpp */,
+				8634B29B24E85E6700AF7AE6 /* Product.h */,
+				8634B29C24E85EBB00AF7AE6 /* Food.h */,
+				8634B29D24E85ED700AF7AE6 /* Clothes.h */,
 			);
 			path = Annual_Lab;
 			sourceTree = "<group>";
